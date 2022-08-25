@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "513707863271",
+    "project_id": "todorealtime-ea702",
+    "storage_bucket": "todorealtime-ea702.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513707863271:android:f680f0a4a0bc0c6f500642",
+        "android_client_info": {
+          "package_name": "com.example.todo_reatime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513707863271-78qehrv60a84iddd5fa76l8ob4bi4elq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8NkScVNLXhXK96y-ur3jGsk_d-KB2HeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513707863271-78qehrv60a84iddd5fa76l8ob4bi4elq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
